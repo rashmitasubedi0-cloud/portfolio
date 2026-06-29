@@ -42,18 +42,6 @@ export const PROFILE = {
 
   experience: [
     {
-      role: 'Java Developer',
-      org: 'Cosmo-tech International Pvt. Ltd.',
-      period: '2024 — 2025',
-      points: [
-        'Built RESTful backend services with Java and Spring Boot, including a hotel-management API and an online store.',
-        'Implemented authentication and authorization using Spring Security and stateless JWT.',
-        'Designed relational schemas and persistence layers with MySQL and JPA / Hibernate.',
-        'Collaborated in an agile team using Git and GitHub for version control and code reviews.',
-      ],
-      accent: 'cyan',
-    },
-    {
       role: 'Associate Software Engineer',
       org: 'F1Soft International',
       period: '2025 — Present',
@@ -74,7 +62,19 @@ export const PROFILE = {
         'Design assignments, lab exercises and projects that mirror real-world development.',
         'Mentor students on coding best practices and career preparation.',
       ],
-      accent: 'violet',
+      accent: 'cyan',
+    },
+    {
+      role: 'Java Developer',
+      org: 'Cosmo-tech International Pvt. Ltd.',
+      period: '2024 — 2025',
+      points: [
+        'Built RESTful backend services with Java and Spring Boot, including a hotel-management API and an online store.',
+        'Implemented authentication and authorization using Spring Security and stateless JWT.',
+        'Designed relational schemas and persistence layers with MySQL and JPA / Hibernate.',
+        'Collaborated in an agile team using Git and GitHub for version control and code reviews.',
+      ],
+      accent: 'cyan',
     },
   ],
 
